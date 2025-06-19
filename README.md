@@ -11,7 +11,8 @@ Desenvolvedor Full Stack apaixonado por tecnologia, inovação e desafios! Sempr
 ## ✨ Projetos em destaque
 
 - [**Avynel**](https://avynel.com)  
-  Sistema de agendamentos com várias funcionalidades
+  Sistema de agendamentos com várias funcionalidades.
+
   [<img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/avynel-agendamentos/id6746140390)
   [<img src="https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.stumps.avynel&hl=pt_BR)
 
