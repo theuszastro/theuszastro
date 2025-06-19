@@ -1,33 +1,55 @@
-# 👋 Olá, eu sou o Matheus Castro!
+# 👋 Olá, eu sou o **Matheus Castro**
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia, inovação e desafios! Sempre em busca de aprender coisas novas e criar soluções que impactem positivamente as pessoas.
+Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, inovação e desafios!  
+Tenho experiência sólida no desenvolvimento de **aplicações web** e **mobile (iOS & Android)**, sempre focado em **performance**, **boas práticas** e **experiência do usuário**.
 
-- 💻 Trabalho principalmente com **React**, **React Native**, **Rust** e **Node.js**
-- 📱 Tenho experiência em desenvolvimento web e mobile (iOS & Android)
-- 🌎 Gosto de atuar em projetos que envolvem tanto o front quanto o back-end
+Atuo tanto no **front-end** quanto no **back-end**, criando soluções escaláveis que realmente geram valor.
 
-## ✨ Projetos em destaque
+---
 
-- [**Avynel**](https://avynel.com)  
-  Sistema de agendamentos com várias funcionalidades.                       
-  [<img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/avynel-agendamentos/id6746140390)
-  [<img src="https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.stumps.avynel&hl=pt_BR)
-
-- **Umbanda - Tudo Sobre**  
-  Aplicativo completo para iOS e Android sobre a religião Umbanda.  
-  [<img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/umbanda-tudo-sobre/id6737142510)
-  [<img src="https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.syncsoul.umbanda&hl=pt_BR)
-
-> Alguns dos meus projetos favoritos ainda são privados, mas estão em constante evolução!
-
-## 🛠️ Principais Tecnologias
+## 🛠️ Minhas principais tecnologias
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+
+Outras que uso com frequência:  
+**TypeScript**, **Next.js**, **Express.js**, **Styled Components**, **Tailwind CSS**, **MongoDB**, **PostgreSQL**, entre outras.
+
+---
+
+## ✨ Projetos em Destaque
+
+### 🗓️ [**Avynel**](https://avynel.com)  
+Sistema completo de **agendamentos online** para salões, barbearias e profissionais autônomos.  
+
+**Destaques:**  
+✅ Painel administrativo Web  
+✅ Aplicativo mobile (Android & iOS)  
+✅ Controle de clientes, agendamentos, profissionais e serviços
+
+[<img src="https://img.shields.io/badge/App%20Store-Baixar-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/avynel-agendamentos/id6746140390)
+[<img src="https://img.shields.io/badge/Google%20Play-Baixar-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.stumps.avynel&hl=pt_BR)
+
+---
+
+### 📚 **Umbanda - Tudo Sobre**  
+Um dos aplicativos mais completos sobre **Umbanda** no Brasil 🇧🇷  
+
+**Destaques:**  
+✅ Informações sobre Orixás, pontos cantados, rezas e fundamentos  
+
+[<img src="https://img.shields.io/badge/App%20Store-Baixar-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/umbanda-tudo-sobre/id6737142510)
+[<img src="https://img.shields.io/badge/Google%20Play-Baixar-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.syncsoul.umbanda&hl=pt_BR)
+
+---
+
+> ⚡ Outros projetos estão em desenvolvimento ou são privados (SaaS, aplicativos internos e experimentais).
+
+---
 
 ## 📫 Onde me encontrar
 
@@ -35,4 +57,8 @@ Desenvolvedor Full Stack apaixonado por tecnologia, inovação e desafios! Sempr
 
 ---
 
-> “Código limpo, mente tranquila.”
+## 🧠 Frase que me guia
+
+> **"Código limpo, mente tranquila."**
+
+---
