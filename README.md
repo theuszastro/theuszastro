@@ -7,6 +7,8 @@ Tenho experiência sólida no desenvolvimento de **aplicações web** e **mobile
 
 Atuo tanto no **front-end** quanto no **back-end**, criando soluções escaláveis que realmente geram valor.
 
+[![Instagram](https://img.shields.io/badge/-@theuszastro-E4405F?style=flat&logo=instagram&logoColor=fff)](https://instagram.com/theuszastro)
+
 ---
 
 ## 🛠️ Minhas principais tecnologias
@@ -48,17 +50,5 @@ Um dos aplicativos mais completos sobre **Umbanda** no Brasil 🇧🇷
 ---
 
 > ⚡ Outros projetos estão em desenvolvimento ou são privados (SaaS, aplicativos internos e experimentais).
-
----
-
-## 📫 Onde me encontrar
-
-[![Instagram](https://img.shields.io/badge/-@theuszastro-E4405F?style=flat&logo=instagram&logoColor=fff)](https://instagram.com/theuszastro)
-
----
-
-## 🧠 Frase que me guia
-
-> **"Código limpo, mente tranquila."**
 
 ---
