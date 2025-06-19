@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Theusz!
+# 👋 Olá, eu sou o Matheus Castro!
 
 ## 🚀 Sobre mim
 
