@@ -29,10 +29,10 @@ Outras que uso com frequência:
 Plataforma completa para **criação e automação de bots** no Instagram, Facebook, WhatsApp e muito mais.  
 
 **Destaques:**  
-✅ Painel administrativo Web
-✅ Integração com múltiplas plataformas.
-✅ Automação de mensagens, comentários e interações.
-✅ Suporte a APIs oficiais.
+✅ Painel administrativo Web.  
+✅ Integração com múltiplas plataformas.  
+✅ Automação de mensagens, comentários e interações.  
+✅ Suporte a APIs oficiais.  
 
 ---
 
@@ -53,8 +53,8 @@ Sistema completo de **agendamentos online** para salões, barbearias e profissio
 Um dos aplicativos mais completos sobre **Umbanda** no Brasil 🇧🇷  
 
 **Destaques:**  
-✅ Informações sobre Orixás, pontos cantados, rezas e fundamentos.
-✅ Assinaturas para remoção de anúncios.
+✅ Informações sobre Orixás, pontos cantados, rezas e fundamentos.  
+✅ Assinaturas para remoção de anúncios.  
 ✅ Livros digitais.
 
 
