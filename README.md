@@ -25,6 +25,17 @@ Outras que uso com frequência:
 
 ## ✨ Projetos em Destaque
 
+### 🤖 [**Criador de Bot**](https://criadordebot.com.br)  
+Plataforma completa para **criação e automação de bots** no Instagram, Facebook, WhatsApp e muito mais.  
+
+**Destaques:**  
+✅ Painel administrativo Web
+✅ Integração com múltiplas plataformas.
+✅ Automação de mensagens, comentários e interações.
+✅ Suporte a APIs oficiais.
+
+---
+
 ### 🗓️ [**Avynel**](https://avynel.com)  
 Sistema completo de **agendamentos online** para salões, barbearias e profissionais autônomos.  
 
@@ -42,7 +53,10 @@ Sistema completo de **agendamentos online** para salões, barbearias e profissio
 Um dos aplicativos mais completos sobre **Umbanda** no Brasil 🇧🇷  
 
 **Destaques:**  
-✅ Informações sobre Orixás, pontos cantados, rezas e fundamentos  
+✅ Informações sobre Orixás, pontos cantados, rezas e fundamentos.
+✅ Assinaturas para remoção de anúncios.
+✅ Livros digitais.
+
 
 [<img src="https://img.shields.io/badge/App%20Store-Baixar-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/umbanda-tudo-sobre/id6737142510)
 [<img src="https://img.shields.io/badge/Google%20Play-Baixar-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.syncsoul.umbanda&hl=pt_BR)
