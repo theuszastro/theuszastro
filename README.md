@@ -36,19 +36,6 @@ Plataforma completa para **criação e automação de bots** no Instagram, Faceb
 
 ---
 
-### 🗓️ [**Avynel**](https://avynel.com)  
-Sistema completo de **agendamentos online** para salões, barbearias e profissionais autônomos.  
-
-**Destaques:**  
-✅ Painel administrativo Web  
-✅ Aplicativo mobile (Android & iOS)  
-✅ Controle de clientes, agendamentos, profissionais e serviços
-
-[<img src="https://img.shields.io/badge/App%20Store-Baixar-blue?logo=apple" height="24"/>](https://apps.apple.com/br/app/avynel-agendamentos/id6746140390)
-[<img src="https://img.shields.io/badge/Google%20Play-Baixar-green?logo=google-play" height="24"/>](https://play.google.com/store/apps/details?id=com.stumps.avynel&hl=pt_BR)
-
----
-
 ### 📚 **Umbanda - Tudo Sobre**  
 Um dos aplicativos mais completos sobre **Umbanda** no Brasil 🇧🇷  
 
