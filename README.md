@@ -51,6 +51,7 @@ Job queues and a typed cache for **Rust** on top of **Redis**. Part of the Dinoc
 
 [![Crates.io](https://img.shields.io/crates/v/rekka.svg?color=black)](https://crates.io/crates/rekka)
 [![Docs](https://img.shields.io/badge/docs-dinoco.io-black.svg)](https://dinoco.io/docs/rekka)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/theuszastro)
 
 ---
 
