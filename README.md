@@ -55,7 +55,7 @@ Job queues and a typed cache for **Rust** on top of **Redis**. Part of the Dinoc
 
 ---
 
-### 💳 **Luark**  
+### 💳 [**Luark Pay**](https://luarkpay.co)  
 An ecosystem of business solutions, starting with **Luark Pay**, a B2B payments fintech. The back-end is built with **Rust** (Axum, Dinoco and Rekka) and the front-end with **Next.js**.  
 
 **Highlights:**  
@@ -63,8 +63,6 @@ An ecosystem of business solutions, starting with **Luark Pay**, a B2B payments 
 ✅ Card machine management, statements and treasury.  
 ✅ Shared access with roles and permissions.  
 ✅ Upcoming modules: PDV, Eats, Store, Tickets and Creator.  
-
-> 🚧 In development.
 
 ---
 
